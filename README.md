@@ -798,6 +798,7 @@ def cached_evaluate(input_hash, output_hash):
 - **[OpenAI Cookbook](https://github.com/openai/openai-cookbook)** - Practical examples including evaluation techniques
 - **[Hugging Face Evaluate](https://github.com/huggingface/evaluate)** - Library for easily evaluating ML models and datasets
 - **[Microsoft Promptflow](https://github.com/microsoft/promptflow)** - Evaluation flows for LLM applications
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Trust scoring MCP server for AI agent identity verification. Verify the wallet of an evaluator agent before accepting automated LLM evaluation results. Free `preflight_check(wallet)` + paid signed receipt via x402. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 #### Notebooks & Demos
 - **[Colab: LLM Evaluation Basics](examples/notebooks/evaluation_basics.ipynb)** - Interactive introduction
